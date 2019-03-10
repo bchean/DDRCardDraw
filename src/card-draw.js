@@ -7,19 +7,19 @@ export function draw(songs, configData) {
   const upperBound = parseInt(configData.get('upperBound'), 10);
   const lowerBound = parseInt(configData.get('lowerBound'), 10);
   const abbreviations = JSON.parse(configData.get('abbreviations'));
-  const style = configData.get('style');
+  // const style = configData.get('style');
   // requested difficulties
   const difficulties = new Set(configData.getAll('difficulties'));
   // other options: usLocked, extraExclusive, removed, unlock
   const inclusions = new Set(configData.getAll('inclusions'));
 
   const validCharts = {};
-  times(19, (n) => {
+  times(50, (n) => {
     validCharts[n.toString()] = [];
   });
 
   for (const currentSong of songs) {
-    const charts = currentSong[style];
+    const charts = currentSong['single'];
     // song-level filters
     if (
       (!inclusions.has('usLocked') && currentSong['us_locked']) ||
@@ -56,6 +56,8 @@ export function draw(songs, configData) {
         'level': chart.difficulty,
         'hasShock': parseInt(chart.shock, 10) > 0,
         'abbreviation': abbreviations[key],
+          'genreTranslation': currentSong.genre_translation,
+          'version': currentSong.version,
       });
     }
   }

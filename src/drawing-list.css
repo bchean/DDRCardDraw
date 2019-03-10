@@ -10,8 +10,8 @@
 
 @media (min-width: 1025px) {
   .scrollable {
-    overflow: auto;
-    min-height: 12em;
+    /*overflow: auto;*/
+    /*min-height: 12em;*/
   }
 }
 

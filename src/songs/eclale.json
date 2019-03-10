@@ -1,0 +1,4274 @@
+[
+    {
+        "bpm": "68～192", 
+        "genre_translation": "SKA", 
+        "name": "Cassandra", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[8]"
+    }, 
+    {
+        "bpm": "120～168", 
+        "genre_translation": "MELO PUNK", 
+        "name": "pure", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[8]"
+    }, 
+    {
+        "bpm": "144", 
+        "genre_translation": "ROCK GUITAR", 
+        "name": "ABSOLUTE", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[9]"
+    }, 
+    {
+        "bpm": "167～210", 
+        "genre_translation": "ELEGY", 
+        "name": "幸せを謳う詩", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[10]"
+    }, 
+    {
+        "bpm": "208～290", 
+        "genre_translation": "ZEN-JAZZ", 
+        "name": "明鏡止水", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[10]"
+    }, 
+    {
+        "bpm": "140", 
+        "genre_translation": "NEBUTA", 
+        "name": "烏", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[11]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "MIRAIHA", 
+        "name": "demolizione", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[11]"
+    }, 
+    {
+        "bpm": "184～188", 
+        "genre_translation": "FLOW BEAT", 
+        "name": "CURUS", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[12]"
+    }, 
+    {
+        "bpm": "156", 
+        "genre_translation": "AISYU-EURO", 
+        "name": "MOON", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "110", 
+        "genre_translation": "AGE BEAT", 
+        "name": "NEW PEOPLE", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "155", 
+        "genre_translation": "VS.SOUND", 
+        "name": "異能対決！VS.淀ジョル", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "PSYCHEDELIC TRANCE", 
+        "name": "Psyche Planet-V", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "165", 
+        "genre_translation": "DES ROCK", 
+        "name": "レトロスペクト路", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "125", 
+        "genre_translation": "TRIBAL POP", 
+        "name": "Gradation", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "100～155", 
+        "genre_translation": "BATTLE DANCE", 
+        "name": "シャムシールの舞", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "204", 
+        "genre_translation": "BULGARIAN RHYTHM", 
+        "name": "Deep Magenta", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "139", 
+        "genre_translation": "WELLFARE", 
+        "name": "つばめ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "176", 
+        "genre_translation": "KENDO ROCK", 
+        "name": "ギターケンドー", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "163", 
+        "genre_translation": "NADESHIKO ROCK", 
+        "name": "凛として咲く花の如く", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "62～400", 
+        "genre_translation": "PERCUSSIVE 2", 
+        "name": "西麻布水道曲", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "171", 
+        "genre_translation": "HIP ROCK 4", 
+        "name": "路男", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "125", 
+        "genre_translation": "FORKLORE", 
+        "name": "アンデスの太陽", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "182", 
+        "genre_translation": "LOUD MIXTURE RAGGA", 
+        "name": "Soul On Fire", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "184", 
+        "genre_translation": "VISUAL 4", 
+        "name": "Desire", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "136", 
+        "genre_translation": "KEMARI", 
+        "name": "Kicky Kemari Kicker", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "162", 
+        "genre_translation": "COSMOLOGICAL", 
+        "name": "UNBOUND MIND", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "CONTEMPORARY NATION 3", 
+        "name": "Echoes", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "90～180", 
+        "genre_translation": "SPY REMIX", 
+        "name": "SPICY PIECE (Ryu☆Remix)", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "192", 
+        "genre_translation": "NEGAME ROCK", 
+        "name": "繚乱ヒットチャート", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "181", 
+        "genre_translation": "BALLS-OUT ROCK", 
+        "name": "プリンシプル", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "72～150", 
+        "genre_translation": "WORLD TOUR 2", 
+        "name": "Magical 4", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "162～172", 
+        "genre_translation": "TWIN HERO", 
+        "name": "明日への誓い", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "145", 
+        "genre_translation": "HOTTEST PARTY", 
+        "name": "will", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "148", 
+        "genre_translation": "RYUSEI RAVE REMIX", 
+        "name": "流星☆ハニー Perforation Mix", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "174", 
+        "genre_translation": "J-ROCK Ø NEW", 
+        "name": "Alicy", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "250", 
+        "genre_translation": "IKKI", 
+        "name": "IKKI! Explosion", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "KUROFUNE FUNK", 
+        "name": "ペリーでぇす！", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "220", 
+        "genre_translation": "PSYCHOBILLY", 
+        "name": "辞世テンプレート", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "NADESHIKO METAL", 
+        "name": "黒髪乱れし修羅となりて", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "110～152", 
+        "genre_translation": "MONGOL REMIX", 
+        "name": "怒れる大きな白い馬～S.S.D.の役～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "LADIES METAL", 
+        "name": "麗破唖甦～rebirth～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "135", 
+        "genre_translation": "CASTLEVANIA SLOT 2", 
+        "name": "緋月の狂想曲", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "ANIMAL MINIMAL", 
+        "name": "The Zoo Zone", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "QUILT", 
+        "name": "キルト", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "138", 
+        "genre_translation": "CONTEMPORARY NATION 5", 
+        "name": "The Sky of Sadness", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "144～216", 
+        "genre_translation": "JAZZ ARIA", 
+        "name": "L'eternita", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "100～173", 
+        "genre_translation": "SCALE OUT", 
+        "name": "BabeL ～Next Story～", 
+        "name_translation": "", 
+        "single": {
+            "hyper": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "85～170", 
+        "genre_translation": "DOBOKU ROCK", 
+        "name": "ガッテンだ!!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "192", 
+        "genre_translation": "LABO TECHNO", 
+        "name": "左脳スパーク", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "ASIAN CONCERTO REMIX", 
+        "name": "鳳凰 ～Chinese Phoenix Mix～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "150～186", 
+        "genre_translation": "NEVER ENDING PUNK", 
+        "name": "青春の扉", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "STRIFE", 
+        "name": "疾風", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "158", 
+        "genre_translation": "SORCERY PROG", 
+        "name": "Shining Wizard", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "135～167", 
+        "genre_translation": "DAEMON'S METAL", 
+        "name": "魔界！痛快！ヘルダンス", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "70～225", 
+        "genre_translation": "PYRAMID REMIX", 
+        "name": "永遠という名の媚薬～Pyramid Power・Death Match ver.～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "128", 
+        "genre_translation": "SCIENCE POP", 
+        "name": "恋はどう？モロ◎波動OK☆方程式!!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "188", 
+        "genre_translation": "AKASHIC HARDCORE", 
+        "name": "PRANA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "174", 
+        "genre_translation": "CASTLEVANIA SLOT 3", 
+        "name": "De-a lungul vietii", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "126", 
+        "genre_translation": "EXCITING ROCK", 
+        "name": "鳥無き島にて", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "181", 
+        "genre_translation": "EDGE", 
+        "name": "雷君", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "EMOTIONAL DUO", 
+        "name": "カタルシスの月", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "ORBITALIC REVOLUTION", 
+        "name": "Synergy For Angels", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "COLOR FUSION", 
+        "name": "Riot of Color", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "120～180", 
+        "genre_translation": "SYMPHONOVATIVE ROCK", 
+        "name": "Stella Sinistra", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "186", 
+        "genre_translation": "SWING LATTE", 
+        "name": "coffee break", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "SEISHUN GOUSOKKYUU METAL", 
+        "name": "マインド・ゲーム", 
+        "name_translation": "Mind game", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "196", 
+        "genre_translation": "CHOURENAI☆EXTREME GIRL", 
+        "name": "超恋愛☆エクストリーム・ガール", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "190", 
+        "genre_translation": "Hi-CORE", 
+        "name": "†渚の小悪魔ラヴリィ～レイディオ†", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "196", 
+        "genre_translation": "Hi-ν BLEEP", 
+        "name": "キャトられ♥恋はモ～モク", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "188", 
+        "genre_translation": "HAPPY SAD CORE", 
+        "name": "Engraved Mark", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "BIG BEAT", 
+        "name": "HYENA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "144", 
+        "genre_translation": "BLOOM FUSION", 
+        "name": "アルストロメリア", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "185", 
+        "genre_translation": "MOE OKOSHI DENPA SONG", 
+        "name": "めうめうぺったんたん!!", 
+        "name_translation": "Meumeu", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "100～180", 
+        "genre_translation": "EUROPEAN BREAKCORE", 
+        "name": "Les Vague", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "205", 
+        "genre_translation": "LUCKY HARDCORE", 
+        "name": "Daily Lunch Special", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "158", 
+        "genre_translation": "ROMAN KAYO", 
+        "name": "滅びに至るエランプシス", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "192", 
+        "genre_translation": "PUPCORE", 
+        "name": "ポチコの幸せな日常", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "164", 
+        "genre_translation": "", 
+        "name": "蒼い弓箭", 
+        "name_translation": "Aoi kyuusen", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "", 
+        "name": "朱と碧のランページ", 
+        "name_translation": "Aka to ao no rampage", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "", 
+        "name": "憂恋☆アクティベーション", 
+        "name_translation": "Urekoi activation", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "210", 
+        "genre_translation": "", 
+        "name": "乙女繚乱 舞い咲き誇れ", 
+        "name_translation": "Otome ryouran mai sakihokore", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "154", 
+        "genre_translation": "", 
+        "name": "黒点", 
+        "name_translation": "Kokuten", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "185", 
+        "genre_translation": "", 
+        "name": "水月鏡花のコノテーション", 
+        "name_translation": "Suigetsukyouka no connotation", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "", 
+        "name": "零と弌の鍵の唄", 
+        "name_translation": "Zero to ichi no kagi no uta", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "190", 
+        "genre_translation": "", 
+        "name": "√太陽系◎ドーナツ化計画∞∀∞", 
+        "name_translation": "Taiyoukei donuts ka keikaku", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "", 
+        "name": "徹頭徹尾 Thrive at Perfect Fourth", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "Hoshi no tsukurikata", 
+        "name": "ほしのつくりかた", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "91～182", 
+        "genre_translation": "Manjushage", 
+        "name": "曼珠沙華", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "190～250", 
+        "genre_translation": "Midareta fuuki ni tenbatsu wo", 
+        "name": "乱れた風紀に天罰を", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "186", 
+        "genre_translation": "Lapistoria no yakusoku", 
+        "name": "ラピストリアの約束", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "177", 
+        "genre_translation": "", 
+        "name": "532nm", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "", 
+        "name": "8000000", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "155", 
+        "genre_translation": "", 
+        "name": "Dimension Gale", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "170", 
+        "genre_translation": "", 
+        "name": "EBONY & IVORY", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "162", 
+        "genre_translation": "", 
+        "name": "Habits", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "197", 
+        "genre_translation": "", 
+        "name": "TOXIC VIBRATION", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "162", 
+        "genre_translation": "", 
+        "name": "蒼が消えるとき", 
+        "name_translation": "Ao ga kieru toki", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "190", 
+        "genre_translation": "", 
+        "name": "怒りと共に去りぬ！！", 
+        "name_translation": "Ikari to tomo ni sarinu!!", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "132～188", 
+        "genre_translation": "", 
+        "name": "ジオメトリック∮ティーパーティー", 
+        "name_translation": "Geometric tea party [Toycon 2]", 
+        "single": {
+            "hyper": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "170", 
+        "genre_translation": "", 
+        "name": "地方創生☆チクワクティクス", 
+        "name_translation": "Chihou sousei chikuwactics", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "172", 
+        "genre_translation": "", 
+        "name": "巻寿司戦隊ウマイヤン ～コードネームはグリーン～", 
+        "name_translation": "Makizushi sentai umaiyan ~codename wa green~", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "162", 
+        "genre_translation": "", 
+        "name": "3 A.M. ディテクティブ・ゲーム", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "", 
+        "name": "Angelic Jelly", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "135", 
+        "genre_translation": "", 
+        "name": "beat it together", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "168", 
+        "genre_translation": "", 
+        "name": "HADROS GALE", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "184", 
+        "genre_translation": "", 
+        "name": "INHERITANCE of WILL", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "172", 
+        "genre_translation": "", 
+        "name": "Scarlet Pinheel", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "", 
+        "name": "\"Schall\" we step?", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "130", 
+        "genre_translation": "", 
+        "name": "SPEED KING ON FIRE", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "205", 
+        "genre_translation": "", 
+        "name": "Sweet,Sweet,Sweet.", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "Windy Fairy", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "153", 
+        "genre_translation": "", 
+        "name": "千年ノ理", 
+        "name_translation": "Sennen no kotowari", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "175", 
+        "genre_translation": "", 
+        "name": "チルノのパーフェクトさんすう教室", 
+        "name_translation": "Cirno no perfect sansuu kyoushitsu", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "120", 
+        "genre_translation": "", 
+        "name": "BAROQUE HOEDOWN", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "77～155", 
+        "genre_translation": "KESHIGOMU", 
+        "name": "School Life", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[CS8]"
+    }, 
+    {
+        "bpm": "111", 
+        "genre_translation": "CONTEMPORARY NATION 2", 
+        "name": "サヨナラ・ヘヴン", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[CS11]"
+    }, 
+    {
+        "bpm": "134", 
+        "genre_translation": "FUNK FEVER", 
+        "name": "World Spider Web", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[CS14]"
+    }, 
+    {
+        "bpm": "379", 
+        "genre_translation": "SCREEN", 
+        "name": "GALAXY FOREST 11.6&12", 
+        "name_translation": "", 
+        "single": {
+            "hyper": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[CSBest]"
+    }, 
+    {
+        "bpm": "146", 
+        "genre_translation": "", 
+        "name": "Greening", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[PMP]"
+    }, 
+    {
+        "bpm": "212", 
+        "genre_translation": "PORTABLE POP", 
+        "name": "Ensamble Forecast 3/28", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[PMP]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "SPACE POP", 
+        "name": "μ9", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[PMP2]"
+    }, 
+    {
+        "bpm": "145", 
+        "genre_translation": "GOA TRANCE", 
+        "name": "IMPLANTATION", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "TRANCE", 
+        "name": "Colors", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "HYPER J-ROCK", 
+        "name": "brave!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "170", 
+        "genre_translation": "JV-ROCK", 
+        "name": "洟・月・奇蹟", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "46"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "139", 
+        "genre_translation": "ENKA REMIX", 
+        "name": "お江戸花吹雪 TEYAN-day MIX", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[5]"
+    }, 
+    {
+        "bpm": "140～186", 
+        "genre_translation": "CIRCUS", 
+        "name": "フリーパス", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[7]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "turban", 
+        "name": "manhattan sports club", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[8]"
+    }, 
+    {
+        "bpm": "70～270", 
+        "genre_translation": "PYRAMID", 
+        "name": "永遠という名の媚薬", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[8]"
+    }, 
+    {
+        "bpm": "130", 
+        "genre_translation": "DEPA FUNK", 
+        "name": "デパ地下のお話", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[9]"
+    }, 
+    {
+        "bpm": "156～240", 
+        "genre_translation": "HIP ROCK 2", 
+        "name": "男々道", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[9]"
+    }, 
+    {
+        "bpm": "185", 
+        "genre_translation": "SYMPHONIC METAL", 
+        "name": "Holy Forest", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[10]"
+    }, 
+    {
+        "bpm": "152", 
+        "genre_translation": "NANIWA HERO", 
+        "name": "でんがな マンガナ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[11]"
+    }, 
+    {
+        "bpm": "272", 
+        "genre_translation": "HILLBILLY", 
+        "name": "Pa La La 42", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[11]"
+    }, 
+    {
+        "bpm": "67～148", 
+        "genre_translation": "MONGOL", 
+        "name": "怒れる大きな白い馬", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[11]"
+    }, 
+    {
+        "bpm": "164", 
+        "genre_translation": "RINSEI", 
+        "name": "カゲロウ", 
+        "name_translation": "Kagerou", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[11]"
+    }, 
+    {
+        "bpm": "166～188", 
+        "genre_translation": "VIVID", 
+        "name": "For Dear～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[12]"
+    }, 
+    {
+        "bpm": "274", 
+        "genre_translation": "ROCKBILLY", 
+        "name": "ススメ！少年！！", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[12]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "KAIZOKU", 
+        "name": "KING of the SEA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "177", 
+        "genre_translation": "COREDUST BEAT", 
+        "name": "真超深TION", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "213～230", 
+        "genre_translation": "CHIN-DON-JAZZ", 
+        "name": "文明開化", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "170～300", 
+        "genre_translation": "RACING", 
+        "name": "violently car", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "240", 
+        "genre_translation": "JAM", 
+        "name": "HypArcSin(x)", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "106～126", 
+        "genre_translation": "ENZETSU", 
+        "name": "猿の経", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "320", 
+        "genre_translation": "KENKA DRUMS", 
+        "name": "BBLLAASSTT!!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "158～180", 
+        "genre_translation": "TRANCERANCE", 
+        "name": "full-consciousness green", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "140", 
+        "genre_translation": "ANTHEM TRANCE REMIX", 
+        "name": "Votum stellarum -forest #25 RMX-", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "156", 
+        "genre_translation": "ANCIENT EURO", 
+        "name": "In The Ruins", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "88～113", 
+        "genre_translation": "KINDAI ZECCHOU ONGAKU", 
+        "name": "天庭", 
+        "name_translation": "Tentei", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "37～180", 
+        "genre_translation": "CHITEITANKEN", 
+        "name": "スーパーモグー", 
+        "name_translation": "Super mogu", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "128", 
+        "genre_translation": "VIOLIN PROGRESSIVE", 
+        "name": "ポルターガイスト", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "196", 
+        "genre_translation": "SHOEGAZER", 
+        "name": "chilblain", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "PROGRESSIVE", 
+        "name": "V", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "JAPANESQUE PROGRESSIVE", 
+        "name": "たまゆら", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "161", 
+        "genre_translation": "ELEGY 2", 
+        "name": "この子の七つのお祝いに", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "140", 
+        "genre_translation": "KAIJUU", 
+        "name": "突然ゴルゴンゾーラ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "182", 
+        "genre_translation": "CORE ROCK", 
+        "name": "へんたいトリロジー", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "148", 
+        "genre_translation": "CYBER WESTERN", 
+        "name": "PITAゴラス☆KISS", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "225", 
+        "genre_translation": "SHOWA NOIR", 
+        "name": "誰がために陽はのぼる", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "164", 
+        "genre_translation": "NINJA METAL", 
+        "name": "背水之陣", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "175", 
+        "genre_translation": "PIANOTEC", 
+        "name": "Stories", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "163", 
+        "genre_translation": "", 
+        "name": "踊るフィーバーロボ Eu-Robot Mix", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "175", 
+        "genre_translation": "GEKOKUJO DRUM'N'BASS", 
+        "name": "Ge-Ko-Ku-Jo", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "DOGU TECHNO", 
+        "name": "Dogu Ditty", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "168～210", 
+        "genre_translation": "HIP ROCK 3.5", 
+        "name": "差無来!!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "128", 
+        "genre_translation": "FOREST SNOW 2", 
+        "name": "白夜幻燈", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "177", 
+        "genre_translation": "VELVET BULLET HIT", 
+        "name": "ヴェルヴェットバレット", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "125", 
+        "genre_translation": "OSHAMA SWING", 
+        "name": "なまいきプリンセス", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "250", 
+        "genre_translation": "CYBER METAL", 
+        "name": "断罪プラズマ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "140～152", 
+        "genre_translation": "SHINKYOKU", 
+        "name": "神曲", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "HYPER DRAMATIC", 
+        "name": "薔薇は永遠に美しく", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "126", 
+        "genre_translation": "RUNIC AIR", 
+        "name": "Princess Roki", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "228", 
+        "genre_translation": "AYAKASHI ROCK", 
+        "name": "情操ディストピア", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "165", 
+        "genre_translation": "VALKYRIE BREAKS", 
+        "name": "Celsus", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "120", 
+        "genre_translation": "GENSOU ONGAKU", 
+        "name": "αρχη", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "170", 
+        "genre_translation": "DARK OPERA REMIX", 
+        "name": "Der Wald (kors k Remix)", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "173", 
+        "genre_translation": "TRANCE CORE", 
+        "name": "FLOWER", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "95～190", 
+        "genre_translation": "NORO-EMO?", 
+        "name": "ミサコの日記 (見ちゃダメ!)", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "11～190", 
+        "genre_translation": "PRINCESS CORE", 
+        "name": "KIMONO♥PRINCESS", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "60～190", 
+        "genre_translation": "A.I.DARKNESS", 
+        "name": "DOES NOT COMPUTE", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "248", 
+        "genre_translation": "ATHLETIC BOOGIE", 
+        "name": "ATTRACTION!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "VARIANT RAVE", 
+        "name": "PUNISHER", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "173", 
+        "genre_translation": "WITHOUT YOU TONIGHT -VI-", 
+        "name": "Squeeze", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "166", 
+        "genre_translation": "ELECTRO BAROQUE", 
+        "name": "Amalgamation", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "190", 
+        "genre_translation": "RICE METAL", 
+        "name": "お米の美味しい炊き方。。。", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "205", 
+        "genre_translation": "SWEET'S PROGRESSIVE", 
+        "name": "ちくわパフェだよ☆CKP", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "ZODIAC ORACLE 1", 
+        "name": "ストレイ・マーチ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "209", 
+        "genre_translation": "DAIUCHUU NO HOUTEN", 
+        "name": "天庭 おとこのこ編", 
+        "name_translation": "Tentei 2", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "181", 
+        "genre_translation": "DRUM'N COREDUST", 
+        "name": "Mynarco", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "Hi-BLEEP", 
+        "name": "恋する☆宇宙戦争っ!!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "182～186", 
+        "genre_translation": "HAPPY", 
+        "name": "quaver♪", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "181", 
+        "genre_translation": "HAPPY HARDCORE", 
+        "name": "I'm so Happy", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "220", 
+        "genre_translation": "POP MUSIC", 
+        "name": "うた", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "192", 
+        "genre_translation": "MATHEMATIC♥MA+MA=MAGIC!", 
+        "name": "ませまてぃっく♥ま×ま＝まじっく！", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "188", 
+        "genre_translation": "MAID METAL", 
+        "name": "ホーンテッド★メイドランチ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "164", 
+        "genre_translation": "", 
+        "name": "暴レ焔", 
+        "name_translation": "Abare homura", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "169", 
+        "genre_translation": "", 
+        "name": "彼女は快刀乱麻", 
+        "name_translation": "Kanojo wa kaitou Ranma", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "202", 
+        "genre_translation": "", 
+        "name": "煌-灼熱の裁き-", 
+        "name_translation": "Kira -shakunetsu no sabaki-", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "174", 
+        "genre_translation": "", 
+        "name": "地の記 獄編", 
+        "name_translation": "Chi no ki gokuhen", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "152", 
+        "genre_translation": "", 
+        "name": "猫侍の逆襲", 
+        "name_translation": "Nekozamurai no gyakushuu", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "ムーニャポヨポヨスッポコニャーゴ", 
+        "name_translation": "Muunya poyopoyo suppokonyaago", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "165", 
+        "genre_translation": "", 
+        "name": "龍と少女とデコヒーレンス", 
+        "name_translation": "Ryuu to shoujo to decoherence", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "190", 
+        "genre_translation": "", 
+        "name": "Cleopatrysm", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "", 
+        "name": "Hatcha Metcha Party", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "185", 
+        "genre_translation": "", 
+        "name": "ice crystals", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "172", 
+        "genre_translation": "", 
+        "name": "INFINITY", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "140～168", 
+        "genre_translation": "", 
+        "name": "NINE PIECE", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "190", 
+        "genre_translation": "", 
+        "name": "Peragro", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "90～180", 
+        "genre_translation": "", 
+        "name": "Versa", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "181", 
+        "genre_translation": "", 
+        "name": "在るが儘に", 
+        "name_translation": "Aru ga mama ni", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "187", 
+        "genre_translation": "", 
+        "name": "エキサイティング！！も・ちゃ・ちゃ☆", 
+        "name_translation": "Exciting!! Mo-cha-cha", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "", 
+        "name": "黒髪乱れし修羅となりて～凛 edition～", 
+        "name_translation": "NADESHIKO METAL ~Rin edition~", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "168～182", 
+        "genre_translation": "", 
+        "name": "コルトーン", 
+        "name_translation": "Colltorn", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "", 
+        "name": "サケビノミドリ", 
+        "name_translation": "Sakebi no midori", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "", 
+        "name": "漆黒のスペシャルプリンセスサンデー", 
+        "name_translation": "Shikkoku no special princess sundae", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "", 
+        "name": "造花の貌", 
+        "name_translation": "Zouka no kanbase", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "143", 
+        "genre_translation": "", 
+        "name": "デュスノミア", 
+        "name_translation": "Dysnomia", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "110～220", 
+        "genre_translation": "", 
+        "name": "僕らの旅はどこまでも", 
+        "name_translation": "Bokura no tabi wa doko made mo", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "163", 
+        "genre_translation": "", 
+        "name": "凛として咲く花の如く ～ひなビタ♪ edition～", 
+        "name_translation": "NADESHIKO ROCK ~HinaBitter edition~", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "175", 
+        "genre_translation": "", 
+        "name": "ACCELERATION", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "110～196", 
+        "genre_translation": "", 
+        "name": "Caradbolg", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "156～162", 
+        "genre_translation": "", 
+        "name": "El venenciador", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "195", 
+        "genre_translation": "", 
+        "name": "Fate No.23", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "210", 
+        "genre_translation": "", 
+        "name": "ON-DO", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "280", 
+        "genre_translation": "", 
+        "name": "On top of the world", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "70～168", 
+        "genre_translation": "", 
+        "name": "popcorn parade", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "", 
+        "name": "Reconsideration", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "ZEPHYRANTHES", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "", 
+        "name": "時の妖花", 
+        "name_translation": "Toki no youka", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "208", 
+        "genre_translation": "", 
+        "name": "バンブーソード・ガール", 
+        "name_translation": "BambooSword Girl", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "140", 
+        "genre_translation": "", 
+        "name": "僕ガ壊レル前ニ", 
+        "name_translation": "Boku ga kowareru mae ni", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "158", 
+        "genre_translation": "", 
+        "name": "Russian Caravan Rhapsody", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "CLASSIC 6", 
+        "name": "maritare!", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[CS6]"
+    }, 
+    {
+        "bpm": "190", 
+        "genre_translation": "CLASSIC 7", 
+        "name": "The tyro’s reverie", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[CS7]"
+    }, 
+    {
+        "bpm": "140", 
+        "genre_translation": "CONTEMPORARY NATION", 
+        "name": "BEYOND THE EARTH", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[CS10]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "CHINA ROCK", 
+        "name": "已経忍不住了", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[CS13]"
+    }, 
+    {
+        "bpm": "174", 
+        "genre_translation": "DREAMGAZER", 
+        "name": "Little Prayer", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[PMP]"
+    }, 
+    {
+        "bpm": "166～333", 
+        "genre_translation": "JAPAMETA", 
+        "name": "Craze for You", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "100～170", 
+        "genre_translation": "NEJI ROCK", 
+        "name": "螺子之人", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "145", 
+        "genre_translation": "HYPER J-POP 3", 
+        "name": "1/6 billionth", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "HAPPY HARDCORE", 
+        "name": "Sweet Sweet ♥ Magic", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "109～218", 
+        "genre_translation": "VISUAL", 
+        "name": "月光蝶", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "206", 
+        "genre_translation": "J-ROCK", 
+        "name": "Romance", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "47"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "102～205", 
+        "genre_translation": "Des-REGGAE", 
+        "name": "夜間行", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[7]"
+    }, 
+    {
+        "bpm": "140～175", 
+        "genre_translation": "GRUNGE-DES", 
+        "name": "ULTRA BUTTERFLY（坤剛力）", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[10]"
+    }, 
+    {
+        "bpm": "65～333", 
+        "genre_translation": "DDR", 
+        "name": "DDR MEGAMIX", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[10]"
+    }, 
+    {
+        "bpm": "89～356", 
+        "genre_translation": "KEI-ROW PUNK", 
+        "name": "進め！爺ちゃん！", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[12]"
+    }, 
+    {
+        "bpm": "145～290", 
+        "genre_translation": "CYBER GAGAKU", 
+        "name": "Vairocana", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[12]"
+    }, 
+    {
+        "bpm": "105～180", 
+        "genre_translation": "HIP ROCK 3", 
+        "name": "雪上断火", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[12]"
+    }, 
+    {
+        "bpm": "95～210", 
+        "genre_translation": "LAMENTO", 
+        "name": "雫", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[12]"
+    }, 
+    {
+        "bpm": "170～180", 
+        "genre_translation": "SYMPHONIC METAL op.2", 
+        "name": "Sanctum Crusade", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "138", 
+        "genre_translation": "HARD Pƒ", 
+        "name": "fffff", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[13]"
+    }, 
+    {
+        "bpm": "140～280", 
+        "genre_translation": "CYBER FLAMENCO", 
+        "name": "hora de verdad", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "FEVER ROBO", 
+        "name": "踊るフィーバーロボ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "90～180", 
+        "genre_translation": "IDM", 
+        "name": "ZETA～素数の世界と超越者～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "170", 
+        "genre_translation": "COLLAPSE JAZZ", 
+        "name": "Ergosphere", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "110～135", 
+        "genre_translation": "GLOSSOLALIA", 
+        "name": "万物快楽理論", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "100～133", 
+        "genre_translation": "VIKING", 
+        "name": "バイキングマン", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "PSG BREAK CORE", 
+        "name": "CHIP'N RIDDIM", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "266", 
+        "genre_translation": "HARD Pf+", 
+        "name": "fffff op.2", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "170", 
+        "genre_translation": "ORIENTAL MYTHOLOGY", 
+        "name": "蛇神", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "92～162", 
+        "genre_translation": "JINKI PROGRESSIVE", 
+        "name": "風林火山", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "120～210", 
+        "genre_translation": "SENRAN EMAKI", 
+        "name": "西軍‖∴⊂SEKIGAHARA⊃∴‖東軍", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "213", 
+        "genre_translation": "HIP ROCK 5", 
+        "name": "一激必翔", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "175～195", 
+        "genre_translation": "FURU KOTO", 
+        "name": "序", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "MUHON TRANCE", 
+        "name": "NOBUNAGA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[18]"
+    }, 
+    {
+        "bpm": "163", 
+        "genre_translation": "SPIRAL STAIRS", 
+        "name": "BabeL ～Grand Story～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "270", 
+        "genre_translation": "SPEED CORE", 
+        "name": "MVA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "148", 
+        "genre_translation": "PIANO CONTEMPORARY", 
+        "name": "Macuilxochitl", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "136～170", 
+        "genre_translation": "PROGRE TANGO", 
+        "name": "Red Roses", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "148", 
+        "genre_translation": "MODERN PUNK", 
+        "name": "夢について TYPE C", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "155", 
+        "genre_translation": "STARRY †RANCE", 
+        "name": "Southern Cross", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "135", 
+        "genre_translation": "NOMADIC NATION", 
+        "name": "カラルの月", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "186", 
+        "genre_translation": "ARTCORE", 
+        "name": "Valanga", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "164", 
+        "genre_translation": "ESSENTIALLY", 
+        "name": "True Blue", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "280", 
+        "genre_translation": "EPIC PROG", 
+        "name": "量子の海のリントヴルム", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "KANASHIBARI NO AI WO", 
+        "name": "金縛りの逢を", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "90～182", 
+        "genre_translation": "GRAVIOL", 
+        "name": "STULTI", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "CREATOR", 
+        "name": "創世ノート", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "SPEED DANCE", 
+        "name": "GAIA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "120～140", 
+        "genre_translation": "DREAM CHAMPURU", 
+        "name": "Dimensiva Vulnus", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "80～190", 
+        "genre_translation": "NIGHTMARE METAL", 
+        "name": "背徳と邪悪のエピタフ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "210", 
+        "genre_translation": "NINJA METAL ポプコネ", 
+        "name": "背水之陣(Kagutsuchi Remix)", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "135", 
+        "genre_translation": "NOMADIC NATION 2", 
+        "name": "Esperanza", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "185", 
+        "genre_translation": "HARD RENAISSANCE 2", 
+        "name": "Evans", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "90～300", 
+        "genre_translation": "HARD RENAISSANCE 3", 
+        "name": "JOMANDA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "249", 
+        "genre_translation": "BEAST METAL", 
+        "name": "野獣ワイルド", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "155", 
+        "genre_translation": "BLACK ALBUM", 
+        "name": "OVERHEAT -Type P-", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "153", 
+        "genre_translation": "BROKEN SAMBA BREAK", 
+        "name": "灼熱Beach Side Bunny", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "103～155", 
+        "genre_translation": "PROGRESSIVE", 
+        "name": "Concertino In Blue", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "BASEBALL HEROINE", 
+        "name": "轟け！恋のビーンボール！！", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "140～146", 
+        "genre_translation": "WARABE STEP", 
+        "name": "コドモライブ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "150～190", 
+        "genre_translation": "", 
+        "name": "御千手メディテーション", 
+        "name_translation": "Osenju meditation", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "107～160", 
+        "genre_translation": "", 
+        "name": "たまごの物理科学的。。。", 
+        "name_translation": "Tamago no butsuri kagakuteki...", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "火風陸空", 
+        "name_translation": "Hip rock", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "159", 
+        "genre_translation": "", 
+        "name": "海神", 
+        "name_translation": "Wadatsumi", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "Chronoxia", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "201", 
+        "genre_translation": "", 
+        "name": "Idola", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "201", 
+        "genre_translation": "", 
+        "name": "Metamorphose", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "ZADAMGA", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "カラフルトイズ・ワンダーランド", 
+        "name_translation": "Colorful toys wonderland", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "160～280", 
+        "genre_translation": "", 
+        "name": "賢聖シリウスの采配", 
+        "name_translation": "Kensei SiRiUS no saihai", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "155", 
+        "genre_translation": "", 
+        "name": "現代のヘイヨエ祭り", 
+        "name_translation": "Gendai no heiyoe matsuri", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "32～259", 
+        "genre_translation": "", 
+        "name": "混乱少女♥そふらんちゃん!!", 
+        "name_translation": "Konran shoujo Soflan-chan!!", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "168", 
+        "genre_translation": "", 
+        "name": "流離", 
+        "name_translation": "Sasurai", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "205", 
+        "genre_translation": "", 
+        "name": "asteer", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "191", 
+        "genre_translation": "", 
+        "name": "Grand Chariot", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "240～300", 
+        "genre_translation": "", 
+        "name": "MADSPEED狂信道", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "210", 
+        "genre_translation": "", 
+        "name": "SYMPHONY FROM ZERO", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "Trixxxter", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "175", 
+        "genre_translation": "", 
+        "name": "Warriors Aboot", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "178", 
+        "genre_translation": "", 
+        "name": "混ぜるな危険", 
+        "name_translation": "Mazeruna kiken", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "179", 
+        "genre_translation": "CLASSIC 4", 
+        "name": "Concertare", 
+        "name_translation": "", 
+        "single": {
+            "hyper": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[CS4]"
+    }, 
+    {
+        "bpm": "50～200", 
+        "genre_translation": "CLASSIC 10", 
+        "name": "Doll's sight", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[CS10]"
+    }, 
+    {
+        "bpm": "80～150", 
+        "genre_translation": "NIGHTMARE CAROUSEL", 
+        "name": "カーニバルの主題による人形のためのいびつな狂想曲", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[CS13]"
+    }, 
+    {
+        "bpm": "127", 
+        "genre_translation": "KAGRUNGE", 
+        "name": "生きてこそ～特別版～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[PMP2]"
+    }, 
+    {
+        "bpm": "200～263", 
+        "genre_translation": "PROGRESSIVE", 
+        "name": "The Least 100sec", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "48"
+            }
+        }, 
+        "version": "[ee]"
+    }, 
+    {
+        "bpm": "90～360", 
+        "genre_translation": "OI punk 0", 
+        "name": "ブタパンチのテーマ", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[9]"
+    }, 
+    {
+        "bpm": "174", 
+        "genre_translation": "PROGRESSIVE BAROQUE", 
+        "name": "Übertreffen", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[14]"
+    }, 
+    {
+        "bpm": "199", 
+        "genre_translation": "NIENTE", 
+        "name": "neu", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[15]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "METALLIC OPERA", 
+        "name": "Geiselhaus", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "100～173", 
+        "genre_translation": "SCALE OUT", 
+        "name": "BabeL ～Next Story～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "RUINOUS SPIRITUALS", 
+        "name": "Remain", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[19]"
+    }, 
+    {
+        "bpm": "170", 
+        "genre_translation": "VELLUM", 
+        "name": "Eine Haube ～聖地の果てにあるもの～", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "150", 
+        "genre_translation": "ANTHEM", 
+        "name": "天空の夜明け", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "184", 
+        "genre_translation": "IMBOLC", 
+        "name": "生命の焔纏いて", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "210", 
+        "genre_translation": "", 
+        "name": "C18H27NO3", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "185", 
+        "genre_translation": "JUDGMENT", 
+        "name": "終末を追う者", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "210", 
+        "genre_translation": "SPACE REQUIEM", 
+        "name": "Zirkfied", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "173", 
+        "genre_translation": "ZODIAC ORACLE 7", 
+        "name": "アストライアの双皿", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "212", 
+        "genre_translation": "HARD RENAISSANCE", 
+        "name": "Elemental Creation", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "198", 
+        "genre_translation": "BLOOD METAL", 
+        "name": "IX", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "160", 
+        "genre_translation": "", 
+        "name": "DIAVOLO", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "120～180", 
+        "genre_translation": "", 
+        "name": "Innocence", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "172", 
+        "genre_translation": "", 
+        "name": "perditus†paradisus", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "168", 
+        "genre_translation": "", 
+        "name": "QuoN", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "198", 
+        "genre_translation": "", 
+        "name": "RINИE", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[LT]"
+    }, 
+    {
+        "bpm": "180", 
+        "genre_translation": "", 
+        "name": "激走！！ヤング☆ダンプ！", 
+        "name_translation": "Gekisou!! Young dump!", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "120～168", 
+        "genre_translation": "", 
+        "name": "恋歌疾風！かるたクイーンいろは", 
+        "name_translation": "Koiuta shippuu! Karuta queen Iroha", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "132～188", 
+        "genre_translation": "", 
+        "name": "ジオメトリック∮ティーパーティー", 
+        "name_translation": "Geometric tea party [Toycon 2]", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "", 
+        "name": "CHERNOBOG", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "303", 
+        "genre_translation": "", 
+        "name": "StrayedCatz", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "148", 
+        "genre_translation": "", 
+        "name": "trideca", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "216", 
+        "genre_translation": "", 
+        "name": "Triple Counter", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[écl]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "OI punk", 
+        "name": "悲しいね", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[CS6]"
+    }, 
+    {
+        "bpm": "25～680", 
+        "genre_translation": "CLASSIC 9", 
+        "name": "Hell? or Heaven?", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[CS9]"
+    }, 
+    {
+        "bpm": "134", 
+        "genre_translation": "COWBOY", 
+        "name": "Blue River", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[CS11]"
+    }, 
+    {
+        "bpm": "40～320", 
+        "genre_translation": "CLASSIC 11", 
+        "name": "想い出をありがとう", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[CS11]"
+    }, 
+    {
+        "bpm": "379", 
+        "genre_translation": "SCREEN", 
+        "name": "GALAXY FOREST 11.6&12", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[CSBest]"
+    }, 
+    {
+        "bpm": "200", 
+        "genre_translation": "RINASCITA", 
+        "name": "uən", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "49"
+            }
+        }, 
+        "version": "[PMP2]"
+    }, 
+    {
+        "bpm": "187", 
+        "genre_translation": "TOY CONTEMPORARY", 
+        "name": "シュレーディンガーの猫", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "50"
+            }
+        }, 
+        "version": "[16]"
+    }, 
+    {
+        "bpm": "210～360", 
+        "genre_translation": "SILENT", 
+        "name": "音楽", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "50"
+            }
+        }, 
+        "version": "[17]"
+    }, 
+    {
+        "bpm": "165～188", 
+        "genre_translation": "DIRGE", 
+        "name": "ピアノ協奏曲第1番 \"蠍火\"", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "50"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "140", 
+        "genre_translation": "MURAKUMO", 
+        "name": "少年は空を辿る", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "50"
+            }
+        }, 
+        "version": "[20]"
+    }, 
+    {
+        "bpm": "105～172", 
+        "genre_translation": "ANGELION", 
+        "name": "生命の環を紡いで", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "50"
+            }
+        }, 
+        "version": "[SP]"
+    }, 
+    {
+        "bpm": "104～209", 
+        "genre_translation": "", 
+        "name": "L-an!ma", 
+        "name_translation": "", 
+        "single": {
+            "ex": {
+                "difficulty": "50"
+            }
+        }, 
+        "version": "[LT]"
+    }
+]

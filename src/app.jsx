@@ -24,7 +24,7 @@ class App extends Component {
 
   componentDidMount() {
     window.addEventListener('beforeunload', this.handleUnload);
-    loadSongData('ace');
+    loadSongData('eclale');
   }
 
   componentWillUnmount() {

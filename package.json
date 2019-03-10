@@ -6,9 +6,9 @@
   "scripts": {
     "start": "webpack-dev-server --env.dev=true",
     "build": "npm run validate && webpack",
-    "deploy": "npm run build && surge ./dist https://ddrdraw.surge.sh",
-    "deploy:staging": "npm run build && surge ./dist https://ddrdraw-staging.surge.sh",
-    "validate": "node scripts/validate.js"
+    "deploy": "npm run build && surge ./dist https://popn.surge.sh",
+    "deploy:staging": "npm run build && surge ./dist https://popn-staging.surge.sh",
+    "validate": "true"
   },
   "author": "Noah Manneschmidt",
   "contributors": [

@@ -36,12 +36,13 @@
   font-size: 120%;
 }
 
+.cardHeader,
 .cardFooter {
   flex: 0 0 auto;
   display: flex;
   justify-content: space-between;
   font-size: 80%;
-  padding-top: 10px;
+  /*padding-top: 10px;*/
   align-items: flex-end;
 }
 
@@ -71,6 +72,29 @@
 
 .challenge {
   background-color: #cc71e8;
+}
+
+.HYPER46 {
+  background-color: #d8ca0d;
+}
+.HYPER48 {
+  background-color: #bfb300;
+}
+
+.EX46 {
+  background-color: #ed8b8b;
+}
+.EX47 {
+  background-color: #e87171;
+}
+.EX48 {
+  background-color: #ce5858;
+}
+.EX49 {
+  background-color: #ad3030;
+}
+.EX50 {
+  background-color: #770000;
 }
 
 .vetoed {

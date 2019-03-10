@@ -35,8 +35,28 @@ const dataSetConfigs = {
     ],
     includables: null,
   },
+    eclale: {
+        lowerBound: 46,
+        upperBound: 48,
+        upperMaximum: 50,
+        difficulties: [
+            { label: 'EX', value: 'ex', checked: true, abbreviation: 'EX' },
+            { label: 'HYPER', value: 'hyper', checked: true, abbreviation: 'HYPER' },
+        ],
+        includables: null,
+    },
+    usaneko_final: {
+        lowerBound: 45,
+        upperBound: 47,
+        upperMaximum: 50,
+        difficulties: [
+            { label: 'EX', value: 'ex', checked: true, abbreviation: 'EX' },
+            { label: 'HYPER', value: 'hyper', checked: true, abbreviation: 'HYPER' },
+        ],
+        includables: null,
+    },
 };
-const DEFAULT_DATA_SET = 'ace';
+const DEFAULT_DATA_SET = 'eclale';
 
 const INCLUDABLE_OPTIONS = {
   unlock: 'Unlockable songs',
@@ -66,13 +86,15 @@ export class Controls extends Component {
         <input type="hidden" name="abbreviations" value={JSON.stringify(abbreviations)} />
         <section className={styles.columns}>
           <div className={styles.column}>
-            <div className={styles.group}>
+            <div className={styles.group + ' ' + styles.hidden}>
               <label>
                 Song List:
                 {' '}
                 <select name="dataSource" onChange={this.handleSongListChange}>
-                  <option value="ace" defaultSelected>Ace</option>
-                  <option value="extreme">Extreme</option>
+                  {/*<option value="ace">Ace</option>*/}
+                  {/*<option value="extreme">Extreme</option>*/}
+                    <option value="eclale" defaultSelected>Eclale final</option>
+                    {/*<option value="usaneko_final">Usaneko final</option>*/}
                 </select>
               </label>
             </div>
@@ -108,14 +130,14 @@ export class Controls extends Component {
                 />
               </label>
             </div>
-            <div className={styles.group}>
+            <div className={styles.group + ' ' + styles.hidden}>
               <label>
                 <input type="checkbox" name="weighted" checked={this.state.weighted} onChange={this.handleWeightedChange} />
                 Use Weighted Distributions
               </label>
             </div>
           </div>
-          <div className={styles.column}>
+          <div className={styles.column + ' ' + styles.hidden}>
             <div className={styles.group}>
               <label>
                 {'Style: '}
@@ -232,7 +254,7 @@ export class Controls extends Component {
     }
 
     return <div className={globalStyles.padded}>
-      Drawing {chartCount} {difficultyList} charts {weighted && 'with draw chance by'} lvl
+      Drawing {chartCount} {/*difficultyList*/} charts {weighted && 'with draw chance by'} lvl
       {weighted ? (': (' + weights.map(w => `${w.level}: ${w.percentage}%`).join(', ') + ')') : (` ${levelRange}`)}
       {!!inclusions.length && (
         ' including ' + inclusionList
