@@ -58,6 +58,7 @@ export function draw(songs, configData) {
         'abbreviation': abbreviations[key],
           'genreTranslation': currentSong.genre_translation,
           'version': currentSong.version,
+          'songId': currentSong.song_id,
       });
     }
   }

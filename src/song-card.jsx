@@ -3,7 +3,24 @@ import { Component } from 'preact';
 import styles from './song-card.css';
 
 export class SongCard extends Component {
-  render() {
+  constructor(props) {
+    super(props);
+      let songIdPad = ('000' + this.props.songId).slice(-4);
+      let bannerUrl = `./kc_${songIdPad}.png`;
+
+    this.state = {
+        bannerElStyle: {
+            background: `url("${bannerUrl}")`,
+            'background-position': 'center',
+            'background-repeat': 'no-repeat',
+            'background-size': '104% 104%',
+
+            'border-radius': '5px 5px 0 0',
+        }
+    };
+  }
+
+    render() {
     const {
       name,
       nameTranslation,
@@ -19,6 +36,7 @@ export class SongCard extends Component {
         titleTranslation,
         genreTranslation,
         version,
+        songId,
     } = this.props;
 
     const rootClassname = classNames(
@@ -34,13 +52,21 @@ export class SongCard extends Component {
           {/*<div className={styles.cardHeader}>*/}
               {/*<div className={styles.version}>{version}</div>*/}
           {/*</div>*/}
-        <div className={styles.cardCenter}>
-          <div className={styles.name} title={nameTranslation}>
-            {name + (!!nameTranslation && ' (' + nameTranslation + ')' || '')}
+          <div className={styles.bannerPlaceholder + ' ' + styles.name}>
+              {!nameTranslation && !genreTranslation && name}
+              {nameTranslation}
+              {genreTranslation}
           </div>
-          <div className={styles.genre} title={genreTranslation}>
-            {genreTranslation}
-          </div>
+        <div className={styles.cardCenter} style={this.state.bannerElStyle}>
+            <div className={styles.nameAndGenre}>
+              <div className={styles.name}>
+                  {!nameTranslation && !genreTranslation && name}
+                  {nameTranslation}
+                  {genreTranslation}
+              </div>
+              {/*<div className={styles.genre} title={genreTranslation}>*/}
+              {/*</div>*/}
+            </div>
         </div>
         <div className={styles.cardFooter}>
           <div className={styles.bpm}>{bpm} BPM</div>

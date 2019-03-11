@@ -3,8 +3,9 @@
   padding: 10px;
   overflow: hidden;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .chartList:not(:first-child) {
-  border-top: 1px solid darkgrey;
+  border-top: 6px solid darkgrey;
 }

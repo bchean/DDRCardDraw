@@ -7,6 +7,8 @@ const DelWebpackPlugin = require('del-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const OfflinePlugin = require('offline-plugin');
 const ZipPlugin = require('zip-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
+const WriteFilePlugin = require('write-file-webpack-plugin');
 
 module.exports = function (env = {}, argv = {}) {
   const isProd = !env.dev;
@@ -106,6 +108,10 @@ module.exports = function (env = {}, argv = {}) {
         filename: 'DDRCardDraw-x.x.x.zip',
         exclude: '__offline_serviceworker',
       }),
+        new CopyWebpackPlugin([
+            {from: 'banners'}
+        ]),
+        // new WriteFilePlugin(),
     ].concat(!isProd ? [] : [
       new OfflinePlugin({
         ServiceWorker: {

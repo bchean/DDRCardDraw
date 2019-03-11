@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "A card draw app for running DDR tournaments",
   "scripts": {
-    "start": "webpack-dev-server --env.dev=true",
+    "start": "webpack-dev-server",
     "build": "npm run validate && webpack",
     "deploy": "npm run build && surge ./dist https://popn.surge.sh",
     "deploy:staging": "npm run build && surge ./dist https://popn-staging.surge.sh",
@@ -26,6 +26,7 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.6.1",
     "classnames": "^2.2.5",
+    "copy-webpack-plugin": "^4.6.0",
     "css-loader": "^0.28.9",
     "del-webpack-plugin": "^1.0.4",
     "eslint": "^4.17.0",
@@ -42,6 +43,7 @@
     "surge": "^0.20.1",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1",
+    "write-file-webpack-plugin": "^4.5.0",
     "zip-webpack-plugin": "^2.0.0"
   }
 }
